@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: dengcaoyu@gmail.com
 description: "Talk is cheap, show your code！"
 keyword: "Sharden, dinary, Sharden Blog, 薛定谔的橘猫, Lemon Bubble Water的博客, qiubaiying, 邓操宇, 操宇, iOS, Apple, iPhone"
-url: "http://ohdinary.github.io"          # your host, for absolute URL
+url: "http://dengcaoy.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/ohdinary/ohdinary.github.io.git" # you code repository
+github_repo: "https://github.com/dengcaoy/dengcaoy.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.

@@ -1,18 +1,18 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: 薛定谔的橘猫
+SEOTitle: Lemon Bubble Water的博客 | Sharden Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: dengcaoyu@gmail.com
+description: "Talk is cheap, show your code！"
+keyword: "Sharden, dinary, Sharden Blog, 薛定谔的橘猫, Lemon Bubble Water的博客, qiubaiying, 邓操宇, 操宇, iOS, Apple, iPhone"
+url: "http://ohdinary.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/ohdinary/ohdinary.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Talk is cheap, show your code！"
+sidebar-avatar: img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
